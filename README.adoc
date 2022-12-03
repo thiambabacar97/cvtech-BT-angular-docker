@@ -50,7 +50,7 @@ $docker run --name cvtech-angular -p 8080:80 -d cvtech-angular
 
 === Verify
 
-Open browser and use docker server URL to access the application. for example if docker is running on localhost url shall be `http://localhost`
+Open browser and use docker server URL to access the application. for example if docker is running on localhost url shall be `http://localhost:8080`
 
 == Useful command
 
